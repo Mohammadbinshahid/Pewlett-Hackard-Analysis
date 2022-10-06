@@ -19,8 +19,7 @@ The objective behind this portion of the analysis was to identify the current em
 
 The total number of employees that qualify for the mentorshp program is 1,940.
 
-![mentorship_eligibility snapshot](https://user-images.githubusercontent.com/104873181/194360480-739a254a-946a-4a27-8bd8-eb9dc72d7f42.png)
-
+![mentorship_eligibility snapshot](https://user-images.githubusercontent.com/104873181/194361588-e8b51cbb-320c-4ab0-a0df-0b36a4f1e197.png)
 
 ** data is modified to remove the bug in dates within database (the year 1999 was written as 9999 in the dataset which has been corrected)
 
