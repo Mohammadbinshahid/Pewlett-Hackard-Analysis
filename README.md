@@ -21,6 +21,9 @@ The total number of employees that qualify for the mentorshp program is 1,940.
 
 ![mentorship_eligibility snapshot](https://user-images.githubusercontent.com/104873181/194360480-739a254a-946a-4a27-8bd8-eb9dc72d7f42.png)
 
+
+** data is modified to remove the bug in dates within database (the year 1999 was given as 9999 in the dataset which has been corrected)
+
 Eventhough the mentorship program will help with replacing some of the retiring employees, but it cannot resolve the issue as it is. Either the qualifications are eased to allow for more qualifications or the company will have to hire a large number of new employees.
 
 ## Summary
